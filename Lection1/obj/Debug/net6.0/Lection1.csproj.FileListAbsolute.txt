@@ -1,0 +1,15 @@
+C:\Users\Роман\Desktop\Training\Lection1\bin\Debug\net6.0\Lection1.exe
+C:\Users\Роман\Desktop\Training\Lection1\bin\Debug\net6.0\Lection1.deps.json
+C:\Users\Роман\Desktop\Training\Lection1\bin\Debug\net6.0\Lection1.runtimeconfig.json
+C:\Users\Роман\Desktop\Training\Lection1\bin\Debug\net6.0\Lection1.dll
+C:\Users\Роман\Desktop\Training\Lection1\bin\Debug\net6.0\Lection1.pdb
+C:\Users\Роман\Desktop\Training\Lection1\obj\Debug\net6.0\Lection1.csproj.AssemblyReference.cache
+C:\Users\Роман\Desktop\Training\Lection1\obj\Debug\net6.0\Lection1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Роман\Desktop\Training\Lection1\obj\Debug\net6.0\Lection1.AssemblyInfoInputs.cache
+C:\Users\Роман\Desktop\Training\Lection1\obj\Debug\net6.0\Lection1.AssemblyInfo.cs
+C:\Users\Роман\Desktop\Training\Lection1\obj\Debug\net6.0\Lection1.csproj.CoreCompileInputs.cache
+C:\Users\Роман\Desktop\Training\Lection1\obj\Debug\net6.0\Lection1.dll
+C:\Users\Роман\Desktop\Training\Lection1\obj\Debug\net6.0\refint\Lection1.dll
+C:\Users\Роман\Desktop\Training\Lection1\obj\Debug\net6.0\Lection1.pdb
+C:\Users\Роман\Desktop\Training\Lection1\obj\Debug\net6.0\Lection1.genruntimeconfig.cache
+C:\Users\Роман\Desktop\Training\Lection1\obj\Debug\net6.0\ref\Lection1.dll
