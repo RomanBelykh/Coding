@@ -1,0 +1,15 @@
+C:\Users\Роман\Desktop\Training\Summ\bin\Debug\net6.0\Summ.exe
+C:\Users\Роман\Desktop\Training\Summ\bin\Debug\net6.0\Summ.deps.json
+C:\Users\Роман\Desktop\Training\Summ\bin\Debug\net6.0\Summ.runtimeconfig.json
+C:\Users\Роман\Desktop\Training\Summ\bin\Debug\net6.0\Summ.dll
+C:\Users\Роман\Desktop\Training\Summ\bin\Debug\net6.0\Summ.pdb
+C:\Users\Роман\Desktop\Training\Summ\obj\Debug\net6.0\Summ.csproj.AssemblyReference.cache
+C:\Users\Роман\Desktop\Training\Summ\obj\Debug\net6.0\Summ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Роман\Desktop\Training\Summ\obj\Debug\net6.0\Summ.AssemblyInfoInputs.cache
+C:\Users\Роман\Desktop\Training\Summ\obj\Debug\net6.0\Summ.AssemblyInfo.cs
+C:\Users\Роман\Desktop\Training\Summ\obj\Debug\net6.0\Summ.csproj.CoreCompileInputs.cache
+C:\Users\Роман\Desktop\Training\Summ\obj\Debug\net6.0\Summ.dll
+C:\Users\Роман\Desktop\Training\Summ\obj\Debug\net6.0\refint\Summ.dll
+C:\Users\Роман\Desktop\Training\Summ\obj\Debug\net6.0\Summ.pdb
+C:\Users\Роман\Desktop\Training\Summ\obj\Debug\net6.0\Summ.genruntimeconfig.cache
+C:\Users\Роман\Desktop\Training\Summ\obj\Debug\net6.0\ref\Summ.dll
