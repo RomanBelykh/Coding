@@ -1,0 +1,15 @@
+C:\Users\Роман\Desktop\Training\Lection1\examplediff\bin\Debug\net6.0\examplediff.exe
+C:\Users\Роман\Desktop\Training\Lection1\examplediff\bin\Debug\net6.0\examplediff.deps.json
+C:\Users\Роман\Desktop\Training\Lection1\examplediff\bin\Debug\net6.0\examplediff.runtimeconfig.json
+C:\Users\Роман\Desktop\Training\Lection1\examplediff\bin\Debug\net6.0\examplediff.dll
+C:\Users\Роман\Desktop\Training\Lection1\examplediff\bin\Debug\net6.0\examplediff.pdb
+C:\Users\Роман\Desktop\Training\Lection1\examplediff\obj\Debug\net6.0\examplediff.csproj.AssemblyReference.cache
+C:\Users\Роман\Desktop\Training\Lection1\examplediff\obj\Debug\net6.0\examplediff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Роман\Desktop\Training\Lection1\examplediff\obj\Debug\net6.0\examplediff.AssemblyInfoInputs.cache
+C:\Users\Роман\Desktop\Training\Lection1\examplediff\obj\Debug\net6.0\examplediff.AssemblyInfo.cs
+C:\Users\Роман\Desktop\Training\Lection1\examplediff\obj\Debug\net6.0\examplediff.csproj.CoreCompileInputs.cache
+C:\Users\Роман\Desktop\Training\Lection1\examplediff\obj\Debug\net6.0\examplediff.dll
+C:\Users\Роман\Desktop\Training\Lection1\examplediff\obj\Debug\net6.0\refint\examplediff.dll
+C:\Users\Роман\Desktop\Training\Lection1\examplediff\obj\Debug\net6.0\examplediff.pdb
+C:\Users\Роман\Desktop\Training\Lection1\examplediff\obj\Debug\net6.0\examplediff.genruntimeconfig.cache
+C:\Users\Роман\Desktop\Training\Lection1\examplediff\obj\Debug\net6.0\ref\examplediff.dll
